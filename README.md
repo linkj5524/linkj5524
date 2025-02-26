@@ -9,7 +9,13 @@
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeper-roots)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeper-roots)
