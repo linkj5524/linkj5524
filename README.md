@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm linkj I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=922AF7&background=CAFFC000&multiline=true&width=435&lines=In+the+realm+of+GitHub%2C+%5BName%5D+lights+up+the+path+of+Computer+Vision+with+expertise+and+innovation.)](https://git.io/typing-svg)
 
 **About me**
 
