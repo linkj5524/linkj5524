@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=922AF7&background=CAFFC000&multiline=true&width=435&lines=In+the+realm+of+GitHub%2C+%5BName%5D+lights+up+the+path+of+Computer+Vision+with+expertise+and+innovation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=922AF7&background=CAFFC000&width=435&lines=linkj+lights+up+the+path+of+CV.)](https://git.io/typing-svg)
 
 **About me**
 
